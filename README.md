@@ -35,4 +35,4 @@ npm run dev
 - Cart persists in `localStorage` and `Checkout` posts an order to `/orders`.
 
 Design reference
-- Design preview: 
+- Design preview: https://www.figma.com/design/eLhCSHbtLhOciXjZF2adBL/Web-Store?node-id=40-1498&t=5iZeGz9vkfENsiym-1
