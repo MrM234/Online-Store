@@ -1,4 +1,4 @@
-# ElectroShop
+# TechStore
 
 **The project does not have realization of all pages.**
 
