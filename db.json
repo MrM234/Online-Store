@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone X1",
+      "description": "6.5' OLED, 128GB, 8GB RAM, 48MP camera",
+      "price": 699,
+      "category": "smartphones",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "title": "Wireless Headphones W200",
+      "description": "Active noise cancellation, 30h battery",
+      "price": 149,
+      "category": "audio",
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "title": "Smartwatch S5",
+      "description": "Heart rate, GPS, 7-day battery",
+      "price": 199,
+      "category": "wearables",
+      "stock": 18
+    },
+    {
+      "id": 4,
+      "title": "Laptop Pro 14",
+      "description": "14' M-series CPU, 16GB RAM, 512GB SSD",
+      "price": 1799,
+      "category": "laptops",
+      "stock": 6
+    },
+    {
+      "id": 5,
+      "title": "Bluetooth Speaker B25",
+      "description": "Portable, IP67, 12h playtime",
+      "price": 89,
+      "category": "audio",
+      "stock": 40
+    }
+  ],
+  "categories": [
+    { "id": "smartphones", "name": "Smartphones" },
+    { "id": "audio", "name": "Audio" },
+    { "id": "wearables", "name": "Wearables" },
+    { "id": "laptops", "name": "Laptops" }
+  ],
+  "orders": [],
+  "users": [
+    { "id": 1, "name": "Demo User", "email": "demo@example.com" }
+  ]
+}
